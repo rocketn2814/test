@@ -1,2 +1,4 @@
 # test
-어떻게되나보
+a= input(print('이렇게 하는건가 Y/N : '))
+if a== 'Y':
+
